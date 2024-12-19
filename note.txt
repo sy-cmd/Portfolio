@@ -1,0 +1,7 @@
+https://github.com/sy-cmd/Portfolio.git
+
+Learing 
+
+line-heght 
+ grid-template-columns: repeat(auto-fit,minmax(250px,auto));
+ transform: translateY(-8px);
