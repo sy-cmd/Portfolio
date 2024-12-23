@@ -5,3 +5,23 @@ Learing
 line-heght 
  grid-template-columns: repeat(auto-fit,minmax(250px,auto));
  transform: translateY(-8px);
+
+
+ <div class="box">
+                <div class="s-icons">
+                    <i class='bx bx-desktop'></i>
+                </div>
+                <h3><i class='bx bxl-javascript'></i> Javascript and <i class='bx bxl-jquery' ></i>jQuery</i></h3>
+                <p> ALso adding Functionallity to web pages and intergrating them with jQuery were nessesary </p>
+                     <!-- <a href="#" class="read">Read More</a> -->
+            </div>
+
+
+
+                  <div class="s-icons">
+                    <i class='bx bx-desktop'></i>
+                </div>
+                <h3><i class='bx bxl-html5'></i>  HTML and <i class='bx bxl-css3'></i>  CSS</h3>
+                <p> i have a good understanding of HTML and CSS and other CSS frameworks like <i class='bx bxl-bootstrap' ></i> Bootstrap and  <i class='bx bxl-tailwind-css' ></i> Tailwind </p>
+                     <!-- <a href="#" class="read">Read More</a> -->
+            </div>
