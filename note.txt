@@ -25,3 +25,103 @@ line-heght
                 <p> i have a good understanding of HTML and CSS and other CSS frameworks like <i class='bx bxl-bootstrap' ></i> Bootstrap and  <i class='bx bxl-tailwind-css' ></i> Tailwind </p>
                      <!-- <a href="#" class="read">Read More</a> -->
             </div>
+
+
+
+
+                 <div class="row">
+            <img src="./img/sydb.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
+
+
+
+
+        <form action="https://api.web3forms.com/submit" method="POST">
+
+            <!-- Replace with your Access Key -->
+            <input type="hidden" name="access_key" value="2135f12f-954f-432b-8fd2-2335f30592f4">
+        
+            <!-- Form Inputs. Each input must have a name="" attribute -->
+            <input type="text" name="name"  placeholder="Your name" required>
+            <input type="email"  placeholder="Your email Address" name="email" required>
+            <textarea name="message" placeholder="Message"  required></textarea>
+        
+            <!-- Honeypot Spam Protection -->
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+        
+            <!-- Custom Confirmation / Success Page -->
+            <!-- <input type="hidden" name="redirect" value="https://mywebsite.com/thanks.html"> -->
+        
+            <button type="submit" class="submit" >Submit Form</button>
+        
+        </form>
+
+
+          <!-- <form  action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="2135f12f-954f-432b-8fd2-2335f30592f4">
+            <input name="text">
+            <input type="text" name="name" placeholder="Your name" required>
+            <input type="email" placeholder="Your email Address" required>
+            <input type="" placeholder="Your Mobile Number"required>
+            <textarea name="" id="" cols="35" rows="10" placeholder="How can i Help you" required></textarea>
+            <input type="submit" value="Send Message" class="submit" required>
+        </form> -->
+
+
+         <!-- <div class="row">
+            <img src="./img/sydb.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
+        <!-- <div class="row">
+            <img src="./img/gu.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
+        <!-- <div class="row">
+            <img src="./img/gu.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
+        <!-- <div class="row">
+            <img src="./img/gu.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
+        <!-- <div class="row">
+            <img src="./img/gu.jpg" alt="">
+            <div class="layer">
+                <h5>Visual Design</h5>
+                <p>check dhhdkew hwugduye evgdygwq ebwqgyefr 3 egfy3f u3gf 3f f34f3 f3fdg 3rrff 
+                    43frgr f33rf fu
+                </p>
+                <a href="#"><i class='bx bx-link-external'></i></a>
+            </div>
+        </div> -->
