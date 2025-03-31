@@ -86,10 +86,13 @@ section{
     background-position: center;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
 }
 .slide{
     margin-top: 20px ;
+    display: flex;
+    gap: 25px;
+
 }
 .one{
     display: inline-block;
@@ -185,11 +188,18 @@ header.sticky{
     align-items: center;
     gap: 1.5rem;
 }
+
+.about-me-btn{
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+}
+
 .about-img img{
     max-width: 530px;
     height: auto;
     width: 100%;
-    border-radius: 8px;
+    border-radius: 50px;
 }
 .about-text h2{
     font-size: var(--h2-font);
@@ -292,7 +302,7 @@ header.sticky{
     display: block;
     transition: transform 0.5;
 }
-.layer{
+/* .layer{
     width: 100%;
     height: 0%;
     background: linear-gradient(rgba(0,0,0,0.1), #ff004f) !important;
@@ -308,7 +318,7 @@ header.sticky{
     text-align: center;
     padding: 0 40px;
     transition: height 0.5s;
-}
+} */
 .layer h5{
     font-size: 20px;
     font-weight: 600;
@@ -322,7 +332,7 @@ header.sticky{
 }
 .layer i{
     color: var(--main-color);
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 20px;
     background: var(--text-color);
     width: 60px;
@@ -333,11 +343,12 @@ header.sticky{
     border-radius: 50%;
 }
 .row:hover img{
-    transform: scale(1.1);
+    transform: scale(0.95);
+    transition: all .45s ease;
 }
-.row:hover .layer{
+/* .row:hover .layer{
     height: 100%;
-}
+} */
 .contact{
     background: var(--second-bg-color);
     display: grid;
